@@ -10,7 +10,9 @@
 </div>
 
 ### Skills
-<kbd> 
+
+ <div align="center">  
+  <kbd> 
   <div align="center">
   <kbd>Frontend</kbd>
   </div>  
@@ -29,6 +31,7 @@
         src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>
 </kbd>
+  </div>  
   
 ### Contato
 
