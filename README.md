@@ -9,9 +9,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fearanha&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-## Skills
-
-<div style="display: inline_block"><br>
+### Skills
+<kbd> 
+  <div align="center">
+  <kbd>Frontend</kbd>
+  </div>  
+<div style="display: inline_block"><br>  
     <img align="center" alt="Fearanha-HTML" height="30" width="80"
         src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" alt="Fearanha-CSS" height="30" width="80"
@@ -25,7 +28,8 @@
     <img align="center" alt="Fearanha-react" height="30" width="80"
         src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>
-
+</kbd>
+  
 ### Contato
 
 <div>
