@@ -1,6 +1,6 @@
 ### Hello World! 👋
 
-💻 I'm currently working on ReactJs, focus in Web Developer. <br>
+💻 I'm currently working with ReactJs, focus in Web Developer. <br>
 🌱 I'm currently learning Next.js, Chakra UI, Typescript, SASS and english language. <br>
 
 <div align="center">
