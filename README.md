@@ -3,6 +3,9 @@
 💻 I'm currently working with ReactJs, focus in Web Developer. <br>
 🌱 I'm currently learning Next.js, Chakra UI, Typescript, SASS and english language. <br>
 
+C.H.A.M.A que vem! 🔥
+Conhecimento, Habilidade, Atitude, Motivação, Amar
+
 <div align="center">
   <a href="https://github.com/fearanha">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fearanha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -43,3 +46,6 @@
 ![Snake animation](https://github.com/fearanha/fearanha/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+
+#### "Tenha muito cuidado com o que você deseja de coração, porque por certo será seu" - Napoleon Hill  
+  
