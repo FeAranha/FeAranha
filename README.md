@@ -1,7 +1,7 @@
 ### Hello World! 👋
 
 💻 I'm currently working with ReactJs, focus in Web Developer. <br>
-🌱 I'm currently learning Next.js, Chakra UI, Typescript, SASS and english language. <br>
+🌱 I'm currently learning Next.js, Chakra UI, Typescript, SASS <br>
 
 C.H.A.M.A que vem! 🔥
 Conhecimento, Habilidade, Atitude, Motivação, Amar
