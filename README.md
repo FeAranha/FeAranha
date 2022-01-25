@@ -4,7 +4,6 @@
 🌱 I'm currently learning Next.js, Chakra UI, Typescript, SASS <br>
 
 C.H.A.M.A que vem! 🔥
-Conhecimento, Habilidade, Atitude, Motivação, Amar
 
 <div align="center">
   <a href="https://github.com/fearanha">
