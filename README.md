@@ -1,7 +1,7 @@
 ### Hello World! 👋
 
-💻 I'm currently working with ReactJs, focus in Web Developer. <br>
-🌱 I'm currently learning Next.js, Chakra UI, Typescript, SASS <br>
+💻 I'm currently working with ReactJs | NodeJS, focus in Web Developer. <br>
+🌱 I'm currently learning Express, NextJS, Typescript, SASS, APIs, WebHooks <br>
 
 C.H.A.M.A que vem! 🔥
 
@@ -13,8 +13,7 @@ C.H.A.M.A que vem! 🔥
 
 ### Skills
 
- <div align="center">  
-  <kbd> 
+
   <div align="center">
   <kbd>Frontend</kbd>
   </div>  
@@ -32,8 +31,7 @@ C.H.A.M.A que vem! 🔥
     <img align="center" alt="Fearanha-react" height="30" width="80"
         src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>
-</kbd>
-  </div>  
+  
   
 ### Contato
 
