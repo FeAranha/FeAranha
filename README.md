@@ -1,9 +1,7 @@
-### Hello World! 👋
+### Hello World! 👋 C.H.A.M.A que vem! 🔥
 
 💻 I'm currently working with ReactJs | NodeJS, focus in Web Developer. <br>
 🌱 I'm currently learning Express, NextJS, Typescript, SASS, APIs, WebHooks <br>
-
-C.H.A.M.A que vem! 🔥
 
 <div align="center">
   <a href="https://github.com/fearanha">
@@ -13,25 +11,30 @@ C.H.A.M.A que vem! 🔥
 
 ### Skills
 
-
-  <div align="center">
+<div align="center">
   <kbd>Frontend</kbd>
-  </div>  
-<div style="display: inline_block"><br>  
-    <img align="center" alt="Fearanha-HTML" height="30" width="80"
+</div>  
+     <div align="center" style="display: inline_block"><br>  
+        <img align="center" alt="Fearanha-HTML" height="30" width="80"
         src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-    <img align="center" alt="Fearanha-CSS" height="30" width="80"
+        <img align="center" alt="Fearanha-CSS" height="30" width="80"
         src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-    <img align="center" alt="Fearanha-SASS" height="30" width="80"
+        <img align="center" alt="Fearanha-SASS" height="30" width="80"
         src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-    <img align="center" alt="Fearanha-JS" height="30" width="80"
+        <img align="center" alt="Fearanha-JS" height="30" width="80"
         src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img align="center" alt="Fearanha-TS" height="30" width="80"
+        <img align="center" alt="Fearanha-TS" height="30" width="80"
         src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-    <img align="center" alt="Fearanha-react" height="30" width="80"
+        <img align="center" alt="Fearanha-react" height="30" width="80"
         src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-</div>
-  
+     </div>
+<div align="center"><br><br>
+  <kbd>Backend</kbd>
+</div>  
+     <div align="center" style="display: inline_block"><br>
+        <img align="center" alt="Fearanha-Node" height="30" width="80"
+        src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+     </div><br> 
   
 ### Contato
 
@@ -43,6 +46,5 @@ C.H.A.M.A que vem! 🔥
 ![Snake animation](https://github.com/fearanha/fearanha/blob/output/github-contribution-grid-snake.svg)
 
 </div>
-
-#### "Tenha muito cuidado com o que você deseja de coração, porque por certo será seu" - Napoleon Hill  
   
+#### "Tenha muito cuidado com o que você deseja de coração, porque por certo será seu" - Napoleon Hill
