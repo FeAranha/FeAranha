@@ -15,29 +15,36 @@
   <kbd>Frontend</kbd>
 </div>  
      <div align="center" style="display: inline_block"><br>  
-        <img align="center" alt="Fearanha-HTML" height="30" width="80"
+        <img align="center" alt="HTML" height="30" width="80"
         src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-        <img align="center" alt="Fearanha-CSS" height="30" width="80"
+        <img align="center" alt="CSS" height="30" width="80"
         src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-        <img align="center" alt="Fearanha-SASS" height="30" width="80"
+        <img align="center" alt="SASS" height="30" width="80"
         src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-        <img align="center" alt="Fearanha-JS" height="30" width="80"
+        <img align="center" alt="JavaScript" height="30" width="80"
         src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-        <img align="center" alt="Fearanha-TS" height="30" width="80"
+        <img align="center" alt="TypeScript" height="30" width="80"
         src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-        <img align="center" alt="Fearanha-react" height="30" width="80"
+        <img align="center" alt="React" height="30" width="80"
         src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
      </div>
 <div align="center"><br><br>
   <kbd>Backend</kbd>
 </div>  
      <div align="center" style="display: inline_block"><br>
-        <img align="center" alt="Fearanha-Node" height="30" width="80"
+        <img align="center" alt="NodeJS" height="30" width="80"
+        src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+        <img align="center" alt="NodeJS" height="30" width="80"
         src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-     </div><br> 
+        <img align="center" alt="MySQL" height="30" width="80"
+        src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+        <img align="center" alt="MySQL" height="30" width="80"
+        src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+        <img align="center" alt="MySQL" height="30" width="80"
+        src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  </div>  
   
 ### Contato
-
 <div>
 <a href = "mailto:felipearanha.c@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/feharanha" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
