@@ -1,7 +1,7 @@
 ### Hello World! 👋 C.H.A.M.A que vem! 🔥
 
 💻 I'm currently working with ReactJs | NodeJS, focus in Web Developer. <br>
-🌱 I'm currently learning Express, NextJS, Typescript, SASS, APIs, WebHooks <br>
+🌱 I'm currently learning React Native, NextJS, Typescript, SASS, APIs, WebHooks <br>
 
 <div align="center">
   <a href="https://github.com/fearanha">
