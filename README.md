@@ -1,7 +1,7 @@
-### Hello World! 👋 C.H.A.M.A que vem! 🔥
+# Hello World! 👋 C.H.A.M.A que vem! 🔥
 
 💻 I'm currently working with ReactJs | NodeJS, focus in Web Developer. <br>
-🌱 I'm currently learning React Native, NextJS, Typescript, SASS, APIs, WebHooks <br>
+🌱 I'm currently learning React Native, NextJS, Typescript, SASS, APIs, WebHooks and Python 🐍 <br>
 
 <div align="center">
   <a href="https://github.com/fearanha">
@@ -9,8 +9,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fearanha&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-### Skills
-
+## Skills
 <div align="center">
   <kbd>Frontend</kbd>
 </div>  
@@ -50,7 +49,7 @@
         src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   </div>  
   
-### Contato
+## Contato
 <div align="center">
 <a href = "mailto:felipearanha.c@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/feharanha" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
